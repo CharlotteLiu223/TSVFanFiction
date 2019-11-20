@@ -4,16 +4,13 @@ layout: post
 
 title: Wasting My Young Years(五)约会大作战
 
-文档 date: 2019-11-16 
+date: 2019-11-16
 
-Author: 雨山 
-
-categories:  
+excerpt: "周五晚上，Eddy放下琴，正打算享受闲适的晚间时光，突然接到了Brett的电话。"
 
 tags: [Wasting My Young Years] 
 
 comments: true 
----
 
 ---
 
