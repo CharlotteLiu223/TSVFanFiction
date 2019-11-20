@@ -4,16 +4,13 @@ layout: post
 
 title: Wasting My Young Years(三)琴房二三事
 
-文档 date: 2019-09-22 
+date: 2019-09-22 
 
-Author: 雨山 
-
-categories:  
+excerpt: "Eddy盯着Brett，Brett回盯着Eddy。"
 
 tags: [Wasting My Young Years] 
 
 comments: true 
----
 
 ---
 
