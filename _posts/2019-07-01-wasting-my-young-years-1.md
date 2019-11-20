@@ -1,25 +1,22 @@
 ---
-
 layout: post 
 
 title: Wasting My Young Years(一)奶油蛋糕的正确用法
 
-文档 date: 2019-07-01 
+date: 2019-07-01 
 
-Author: 雨山 
-
-categories:  
+excerpt: "Brett端着盛奶油蛋糕的托盘走进卧室，却没看见Eddy。"
 
 tags: [Wasting My Young Years] 
 
 comments: true 
----
 
 ---
 
 
 
- 		Brett端着盛奶油蛋糕的托盘走进卧室，却没看见Eddy。
+
+​		Brett端着盛奶油蛋糕的托盘走进卧室，却没看见Eddy。
 
 ​		“Eddy？”Brett一边往里走一边环顾四周。
 
