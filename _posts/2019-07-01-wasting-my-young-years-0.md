@@ -4,16 +4,13 @@ layout: post
 
 title: Wasting My Young Years(零)命中注定的B选项
 
-文档 date: 2019-07-01 
+date: 2019-07-01 
 
-Author: 雨山 
-
-categories:  
+excerpt: "坐在考场上的人，都听见了异响，并且向声音来源抛去白眼。"
 
 tags: [Wasting My Young Years] 
 
 comments: true 
----
 
 ---
 
