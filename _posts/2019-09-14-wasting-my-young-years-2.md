@@ -4,16 +4,13 @@ layout: post
 
 title: Wasting My Young Years(二)两份礼物
 
-文档 date: 2019-09-14 
+date: 2019-09-14 
 
-Author: 雨山 
-
-categories:  
+excerpt: "快一点啦Brett！就快到了！"
 
 tags: [Wasting My Young Years] 
 
 comments: true 
----
 
 ---
 
