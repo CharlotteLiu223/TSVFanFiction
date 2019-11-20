@@ -4,19 +4,15 @@ layout: post
 
 title: Wasting My Young Years(六)修学旅行
 
-文档 date: 2019-11-20
+date: 2019-11-20
 
-Author: 雨山 
-
-categories:  
+excerpt: "“啊啊啊啊啊！！！”一声尖叫划破长夜。"
 
 tags: [Wasting My Young Years] 
 
 comments: true 
----
 
 ---
-
 
 
 ​		“啊啊啊啊啊！！！”一声尖叫划破长夜。
