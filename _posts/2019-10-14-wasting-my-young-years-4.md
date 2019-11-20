@@ -4,16 +4,13 @@ layout: post
 
 title: Wasting My Young Years(四)翘课的理由
 
-文档 date: 2019-10-14 
+date: 2019-10-14 
 
-Author: 雨山 
-
-categories:  
+excerpt: "Brett，快起床，你的小提琴课就要迟到了！"
 
 tags: [Wasting My Young Years] 
 
 comments: true 
----
 
 ---
 
